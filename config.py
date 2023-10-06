@@ -17,10 +17,10 @@
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 # Telegram app id, obtain it from my.telegram.org
-APP_ID = 1
+APP_ID = 20960841
 # Telegram api hash, obtain it from my.telegram.org
-API_HASH = "2"
+API_HASH = "a66cd145b429e740d0d93ae3375658ec"
 # Your phone number including country code
-MOBILE_NUMBER = "+918383372828"
+MOBILE_NUMBER = "+918342035634"
 # Your telegram user id
-OWNER_ID = 1844750229
+OWNER_ID = 5531461861
