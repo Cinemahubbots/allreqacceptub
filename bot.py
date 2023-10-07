@@ -32,14 +32,14 @@ from pyrogram.types import Message
 from pyrogram.errors import ChatAdminRequired
 from pyrogram.methods.utilities.idle import idle
 
-from config import APP_ID, API_HASH, MOBILE_NUMBER, OWNER_ID
+from config import APP_ID, API_HASH, SESSION_STRING, OWNER_ID
 from db import CREATE_TABLE_QUERY, INSERT_USER_QUERY, GET_ALL_USERS_QUERY, DELETE_USER_QUERY
 
 print('Auto Approve Bot by github.com/celestix')
 
 print("[INFO] Initializing bot...")
 # create a pyrogram client
-app = Client("autobot", api_id=APP_ID, api_hash=API_HASH, phone_number=MOBILE_NUMBER)
+app = Client("autobot", api_id=APP_ID, api_hash=API_HASH, session_string=SESSION_STRING)
 
 print('[INFO] Starting bot...')
 # start the pyrogram client
