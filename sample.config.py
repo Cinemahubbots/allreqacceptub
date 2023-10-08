@@ -20,7 +20,7 @@
 APP_ID = 1
 # Telegram api hash, obtain it from my.telegram.org
 API_HASH = "2"
-# Your phone number including country code
-MOBILE_NUMBER = "+918383372828"
+# Your pyrogram session string here
+SESSION_STRING = "session string here"
 # Your telegram user id
 OWNER_ID = 1844750229
