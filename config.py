@@ -17,10 +17,10 @@
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 # Telegram app id, obtain it from my.telegram.org
-APP_ID = 1
+APP_ID = 23958285
 # Telegram api hash, obtain it from my.telegram.org
-API_HASH = "2"
+API_HASH = "9e2332b5a061d2799dec53644d93bcc1"
 # Your pyrogram session string here
-SESSION_STRING = "session string here"
+SESSION_STRING = "BQFtkw0ASZ7GE55vmDXcLFWA98fPqpsZuyOuuYBaio9gTvPONKojkOfc6rqLdi-VBchUF4BAD1QAJDbh1mBxwWEkUxrmstaSP2h2ZKQkIRpH984Po9_ItwrIdJ92dk3UXmGQOIkQwWfXp3P1O5Jj6x6d9Eef1F_PMVdIw8UpuAEQM4ggXGpx_YD8w0Patqu-IeCnOmu2g2SsYhDlGmb7ODfU9sTZJID10TCCnBgVeVI-ZJBctrX5mX4z6ODGPXlovP1FmKFRADKxzWd7-ohZ2vSQsDNTVPTLyC9eA_l4JgI010bmCBww2SHST_4dLDIfu1UsSvNDWEiqHjoCAx2MGpN4CkiEmAAAAAFhImpjAA"
 # Your telegram user id
-OWNER_ID = 1844750229
+OWNER_ID = 5531461861
