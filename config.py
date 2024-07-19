@@ -17,10 +17,10 @@
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 # Telegram app id, obtain it from my.telegram.org
-APP_ID = 18578455
+APP_ID = 26290701
 # Telegram api hash, obtain it from my.telegram.org
-API_HASH = "26dc6e8404a1f7c6c14c4eb9051e04e9"
+API_HASH = "3b1a3b73734b7d15429593cb0d0ef548"
 # Your pyrogram session string here
-SESSION_STRING ="BQEbfBcAQ_bD8jNzwM_CvBe-qdTvl0s1dOIuwzB8wSueXqN_G7SB27II8powrUPPWmaFv7kENSIRguYA0l2OKJ3BeJdYO9C2dNAMtzl2iLR6Gp_CcpqrEXx3xKiMgI3juxVkXrmc2l99snT-mJmLPjVbEbhqJOpD9p2N_p0GSfGnswHJ09ibFxBtHuAsNuqg0j0nYVsCBwA_CldG60S3OtlTZ-TQCRLa-AoeEL2psnsIlNsFLILzAtY3A9T6NeRS0wTtz5ZsPsUGJ_kzyAy_mZAZ6o035GC3ILYdRjSDKWZoOPOlljKpC12opj6vGoCNGlMvNOqr8EOjaAqQGofOYxJydmngbwAAAAGKidiXAA"
+SESSION_STRING ="BQGRKg0AFKJFrdhwJY5b5g69IDuRsUwIgYIU5mZyjxJF5t2F7wBcwXGQOMunklfnWsko5Xm0yLVHpnm-__PX__-geZRjbuy4PD8wxwqEWcOxCZ8XHX2IgZgFfhwQipCTe-tkqMzgrSt_fX1xvidsjVSbC_OEUEIEp-hLrR6fW3BAsfr8eSW4CEgqLeQOqj4WDzFijJyehHFDEe1PAVuULWwRytmaK3loZtfno1Ns6TCZtEWnUY2JxyZNKhXuPUGI1KFsgem8heilcEoDTQ5p4BtG2uk20i0AdHO5638Emqsy2nD5vrpze2PmGzNXxIdBGKURwktpX2P4HvTsdgKAEivOE_tHAgAAAAFlm7paAA"
 # Your telegram user id
 OWNER_ID = 5531461861
