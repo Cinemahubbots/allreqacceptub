@@ -1,6 +1,6 @@
 # Auto Approve Bot for Telegram
 # Copyright (C) 2023
-# Author: Anony (i@anodite.co) <github.com/celestix>
+# 
 # Programming Language: Python
 # Description: A simple telegram bot to auto approve join requests in a group.
 # Usage:
@@ -35,7 +35,7 @@ from pyrogram.methods.utilities.idle import idle
 from config import APP_ID, API_HASH, SESSION_STRING, OWNER_ID
 from db import CREATE_TABLE_QUERY, INSERT_USER_QUERY, GET_ALL_USERS_QUERY, DELETE_USER_QUERY
 
-print('Auto Approve Bot by github.com/celestix')
+print('Auto Approve Bot by Adish')
 
 print("[INFO] Initializing bot...")
 # create a pyrogram client
